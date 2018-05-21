@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    top: 10px;
+    text-align: center;
+
+}
+.card {
+    padding: 1em;
+    padding-top: 8px;
+}
+
+.card-text {
+    color:black;
+}
+input {
+    height: 50px;
+    width: 100px;
+}
+
+button {
+    height: 50px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+.red {
+    width: 240px;
+    margin: 0px 16px 16px 8px;
+}

@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.card {
+    text-align: center;
+}
+span {
+    color: orange;
+    font-weight: bold;
+}
+h5 {
+    font-size: 20px !important;
+}
+.alert {
+    min-height: 0px !important;
+    height: 50px !important;
+    margin-bottom: 0px !important;
+    text-align: center;
+}

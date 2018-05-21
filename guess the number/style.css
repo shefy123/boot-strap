@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    min-height: 0px !important;
+    height: 800px !important;
+    min-width: 0px !important;
+    width: 1000px !important;
+    text-align: center;
+}
+/* .alert {
+    min-height: 0px !important;
+    height: 40px !important;
+    min-width: 0px !important;
+    width: 60px !important;
+
+} */
